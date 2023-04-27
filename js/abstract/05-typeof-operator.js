@@ -1,6 +1,6 @@
-"use strict";
+/* typeof используется для получения типа значения переменной */
 
-// typeof используется для получения типа значения переменной
+"use strict";
 
 let username;
 console.log(typeof username);

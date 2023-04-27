@@ -1,7 +1,7 @@
-"use strict";
+/* возращает новую строку, в которой первое или все 
+совпадения (replaceAll) заменяются указанным значением */
 
-// возращает новую строку, в которой первое или все совпадения (replaceAll)
-// заменяются указанным значением
+"use strict";
 
 const jsFileName = "script.js";
 const minifiedJsFileName = jsFileName.replace(".js", ".min.js");

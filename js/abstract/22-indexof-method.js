@@ -1,6 +1,6 @@
-"use strict";
+/* возвращает индекс первого совпадения */
 
-// возвращает индекс первого совпадения
+"use strict";
 
 const message = "Welcome to Bahamas!";
 

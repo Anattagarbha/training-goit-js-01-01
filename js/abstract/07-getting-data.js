@@ -1,3 +1,6 @@
+/* для получения данных от пользователя есть prompt() и confirm(). 
+Это тоже методы из интерфейса window */
+
 "use strict";
 
 const isComing = confirm("Please confirm hotel reservation!");

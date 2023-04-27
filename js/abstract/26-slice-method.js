@@ -1,6 +1,6 @@
-"use strict";
+/* используется для создания копии части или всей строки */
 
-// используется для создания копии части или всей строки
+"use strict";
 
 const productName = "Repair droid";
 console.log(productName.slice(0, 6)); // Repair

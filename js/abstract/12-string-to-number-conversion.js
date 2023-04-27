@@ -1,7 +1,7 @@
-"use strict";
+/* методы Number.parseInt() и Number.parseFloat() преобразуют 
+строку в число символ за символом, пока это возможно */
 
-// методы Number.parseInt() и Number.parseFloat()
-// преобразуют строку в число символ за символом, пока это возможно
+"use strict";
 
 console.log(Number.parseInt("5px")); // 5
 console.log(Number.parseInt("12qwe64")); // 12

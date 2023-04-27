@@ -1,5 +1,7 @@
-// присвой переменной isMatch выражение проверки
-// равенства введённого и сохранённого ранее паролей
+/* присвой переменной isMatch выражение проверки
+равенства введённого и сохранённого ранее паролей */
+
+"use strict";
 
 function isValidPassword(password) {
   const SAVED_PASSWORD = "jqueryismyjam";

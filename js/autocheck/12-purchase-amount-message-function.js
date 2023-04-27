@@ -1,6 +1,8 @@
-// дополни код функции так, чтобы она возвращала сообщение
-// о заказе в формате "You ordered droids worth <total price> credits.
-// Delivery (<delivery fee> credits) is included in total price."
+/* дополни код функции так, чтобы она возвращала сообщение
+о заказе в формате "You ordered droids worth <total price> credits.
+Delivery (<delivery fee> credits) is included in total price." */
+
+"use strict";
 
 function makeOrderMessage(orderedQuantity, pricePerDroid, deliveryFee) {
   const message = `You ordered droids worth ${
